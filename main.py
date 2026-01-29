@@ -34,3 +34,6 @@ async def on_message(message):
         await message.channel.send("Tidak dapat memproses perintah ini, maaf")
 
 client.run(settings["TOKEN"])
+
+print("aurelia yusifa putri")
+
